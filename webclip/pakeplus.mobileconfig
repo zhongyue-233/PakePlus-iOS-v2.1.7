@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>FullScreen</key>
+			<true/>
+			<key>Icon</key>
+			<data>
+            base64
+			</data>
+			<key>IgnoreManifestScope</key>
+			<true/>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Label</key>
+			<string>PakePlus</string>
+			<key>PayloadDescription</key>
+			<string>配置的描述文件描述</string>
+			<key>PayloadDisplayName</key>
+			<string>PakePayload</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.webClip.managed.E0736409-C08F-4F54-86DA-859A0CB16D67</string>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadUUID</key>
+			<string>E0736409-C08F-4F54-86DA-859A0CB16D67</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Precomposed</key>
+			<false/>
+			<key>URL</key>
+			<string>https://pphtml.pages.dev/app</string>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>PakePlus</string>
+	<key>PayloadIdentifier</key>
+	<string>songdeMacBook-Pro.23014396-AA45-42E3-AB8D-F50D6D330A37</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>6E3BF4EB-11D9-4F2E-8DE8-52B094A64EA5</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
